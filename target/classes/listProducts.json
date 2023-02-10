@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "name": "Product A",
+    "price": 12.99,
+    "brand": "Brand A",
+    "onSale": true
+  },
+  {
+    "id": 2,
+    "name": "Product B",
+    "price": 69.99,
+    "brand": "Brand B",
+    "onSale": false
+  },
+  {
+    "id": 3,
+    "name": "Product C",
+    "price": 23.99,
+    "brand": "Brand C",
+    "onSale": true
+  },
+  {
+    "id": 4,
+    "name": "Product D",
+    "price": 82.99,
+    "brand": "Brand B",
+    "onSale": true
+  },
+  {
+    "id": 5,
+    "name": "Product E",
+    "price": 15.99,
+    "brand": "Brand B",
+    "onSale": false
+  },
+  {
+    "id": 6,
+    "name": "Product F",
+    "price": 6.99,
+    "brand": "Brand C",
+    "onSale": true
+  },
+  {
+    "id": 7,
+    "name": "Product G",
+    "price": 9.99,
+    "brand": "Brand B",
+    "onSale": false
+  },
+  {
+    "id": 8,
+    "name": "Product H",
+    "price": 21.99,
+    "brand": "Brand A",
+    "onSale": false
+  },
+  {
+    "id": 9,
+    "name": "Product I",
+    "price": 11.99,
+    "brand": "Brand B",
+    "onSale": true
+  },
+  {
+    "id": 10,
+    "name": "Product J",
+    "price": 22.99,
+    "brand": "Brand C",
+    "onSale": false
+  }
+
+]
