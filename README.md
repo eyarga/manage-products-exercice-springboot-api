@@ -62,10 +62,6 @@ with tests verifying the given requirements
 and a versioned code base
 Freedom of Tools and Technology
 
-You can use, if you go the Akka-http solution this template
-[Akka Http Project Skeleton] (https://github.com/akka/akka-http-quickstart-scala.g8),
-however we suggest you to use the tools and technologies you are comfortable with.
-
 You need to implement these two tasks in two separate microservices.
 
 Required artifacts:
